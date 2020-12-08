@@ -28,6 +28,7 @@ function modelLoaded() {
 	  noseX = results[0].pose.nose.x;
 	  noseY = results[0].pose.nose.y;
 	  
+	  
 	}
   }
   
